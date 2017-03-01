@@ -1,0 +1,18 @@
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.Form1.resources
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.Form2.resources
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.Properties.Resources.resources
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.csproj.GenerateResource.Cache
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.csprojResolveAssemblyReference.cache
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.csproj.ResolveComReference.cache
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.About.resources
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\bin\Debug\Fruity Gallows.exe.config
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\bin\Debug\Fruity Gallows.exe
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\bin\Debug\Fruity Gallows.pdb
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\Fruity Gallows.exe
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\Fruity Gallows.pdb
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\fruityGallows.Form3.resources
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\bin\Debug\Fruity Gallows.exe.manifest
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\bin\Debug\Fruity Gallows.application
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\Fruity Gallows.exe.manifest
+C:\Users\EN\Desktop\UPol\fruityGallows\fruityGallows\obj\Debug\Fruity Gallows.application
